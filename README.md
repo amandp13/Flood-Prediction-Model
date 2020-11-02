@@ -6,3 +6,5 @@
 
 ![image](https://github.com/amandp13/Flood-Prediction-Model/blob/master/download.png)
 
+## License
+- License under [GNU](https://github.com/amandp13/Flood-Prediction-Model/blob/master/LICENSE)
